@@ -5,7 +5,7 @@ Taller de interfaces, Contexto, UX, UI. Material Design.
 
 ### Carpetas
 
-* Portafolio - Mterial y entregables por etapa UX. Realizado por estudiantes.
-* Recursos - Links de interés, textos, software.
-* UI - Material design, ejemplos en Adobe XD
-* Flujos - Simulaciones de flujos
+* Portafolio - Entregables por etapa UX. Realizado por estudiantes.
+* Recursos - Links de interés, textos, iconografía, software.
+* UI - Material design, ejemplos en Adobe XD.
+* Flujos - Simulaciones de flujos, prototipo.
