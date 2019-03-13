@@ -1,4 +1,5 @@
-# Taller Interfaces,
+# Taller Interfaces
+Por José Santorcuato T
 ## WORK IN PROGRESS
 Taller de interfaces, Contexto, UX, UI. Material Design.
 
